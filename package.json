@@ -1,7 +1,7 @@
 {
   "name": "openaiboilderplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "Bolier Plate For OpenAI Focused On FineTuning In Nodejs",
   "main": "index.js",
   "type": "module",
   "scripts": {
